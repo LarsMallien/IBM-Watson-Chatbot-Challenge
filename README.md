@@ -4,7 +4,7 @@ Welcome dear students, here you will find all documents, tutorials and other hel
 ### Abstract
 The module aims are to design enterprise-specific conversational use cases and implement them using state-of- the-art frameworks of IBM Watson Assistant. You will get insights into the conversational design, natural language processing (NLP) in general and specifically in natural language understanding (NLU) and generation (NLG) as well as  dialogue design . Further, you will get a glimpse into machine learning and knowledge engineering depending on the group project requirements and students preferences. 
 
-- Modul overview: [IBM Watson Chatbot Challenge](https://ibm.box.com/s/l9lh361aylab7k2im893xk3fyglowqw3
+- Module overview: [IBM Watson Chatbot Challenge](https://ibm.box.com/s/l9lh361aylab7k2im893xk3fyglowqw3
 
 ### Register yourself for the module
 - Registration page: [IBM Registration](Urs Witzig)

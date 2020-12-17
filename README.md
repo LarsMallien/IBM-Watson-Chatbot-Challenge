@@ -6,6 +6,8 @@ Master students in groups of 3-5 people work during the spring term 2021 in an i
 
 - Module overview: [IBM Watson Chatbot Challenge](https://ibm.box.com/s/l9lh361aylab7k2im893xk3fyglowqw3)
 
+### Credits 3 ECTS
+
 ### Competing Universities
 - Hochschule Luzern Wirtschaft 
 - FHNW University of Applied Sciences and Arts Northwestern Switzerland

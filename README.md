@@ -4,7 +4,7 @@ Welcome dear students, here you will find all documents, tutorials and other hel
 ### Abstract
 Student groups (3-5p.) work during one semester in an independent learning module at the ‘Watson chatbot Challenge’. The module aims are to design enterprise-specific conversational use cases and implement them using state-of- the-art frameworks of IBM Watson Assistant. You will get insights into the conversational design, natural language processing (NLP) in general and specifically in natural language understanding (NLU) as well as  dialogue design. These  virtual assistants aim to create and solve a real business case of real companies. They are presented and evaluated by the companies at a final presentation. 
 
-- Module overview: [IBM Watson Chatbot Challenge] https://ibm.box.com/s/l9lh361aylab7k2im893xk3fyglowqw3
+- Module overview: [IBM Watson Chatbot Challenge](https://ibm.box.com/s/l9lh361aylab7k2im893xk3fyglowqw3)
 
 ### Module Dates:
 - Introduction days: 01.03. - 02.03.2021

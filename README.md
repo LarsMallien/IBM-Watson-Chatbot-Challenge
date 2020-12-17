@@ -48,6 +48,9 @@ In case you wonder who the guy in the picture is, it is CIMON! To learn more abo
 - 4 parts Tutorial to build a [Machine Learning Model with Watson Studio](https://github.com/FelixAugenstein/digital-tech-tutorial-watson-studio)
 - Beginner's guide to [Watson Visual Recognition](https://developer.ibm.com/articles/introduction-watson-visual-recognition/)
 
+### Enterprise Design Thinking
+- Learn how to do [AI Design Thinking](https://www.ibm.com/design/thinking/page/badges/ai)
+
 ### Social Media:
 Share the challenge in your social media accounts with the hashtag: #IBMWATSONCHABOTCH
 

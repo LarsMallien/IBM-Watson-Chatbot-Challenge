@@ -7,9 +7,9 @@ Student groups (3-5p.) work during one semester in an independent learning modul
 - Module overview: [IBM Watson Chatbot Challenge] https://ibm.box.com/s/l9lh361aylab7k2im893xk3fyglowqw3
 
 ### Module Dates:
-Introduction days: 01.03. - 02.03.2021
-Mid Term:          19.04. - 20.04.2021
-Final:             07.06. - 08.06.2021
+- Introduction days: 01.03. - 02.03.2021
+- Mid Term:          19.04. - 20.04.2021
+- Final:             07.06. - 08.06.2021
 
 ### Register yourself for the module
 - Registration page: [IBM Registration](https://ecosystem-dach.eu-de.mybluemix.net/events/d8b3478f4078f4dc6e050594ab6baf08)

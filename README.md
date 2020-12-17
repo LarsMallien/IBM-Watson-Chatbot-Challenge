@@ -14,7 +14,7 @@ Master students in groups of 3-5 people work during the spring term 2021 in an i
 - University of Zurich
 
 ### Module Agenda:
-- Introduction days: 01.03. - 02.03.2021 (2x Full Day 09.00 -17.00)
+- Introduction days: 01.03. - 02.03.2021 (2x full day 09.00 -17.00)
 - Self study         (building of conversational agent)
 - Mid Term:          19.04. - 20.04.2021 (per group 1h hour)
 - Self study         (building of conversational agent)

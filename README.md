@@ -1,5 +1,5 @@
 ### IBM Watson Chatbot Challenge
-Welcome dear students, here you will find all documents, tutorials and other helpful resources you need to get started with the IBM Watson Chatbot Challenge
+Welcome dear students, here you will find all documents, tutorials and other helpful resources you need to get started with the IBM Watson Chatbot Challenge.
 
 ### Abstract
 Student groups (3-5p.) work during one semester in an independent learning module at the ‘Watson chatbot Challenge’. The module aims are to design enterprise-specific conversational use cases and implement them using state-of- the-art frameworks of IBM Watson Assistant. You will get insights into the conversational design, natural language processing (NLP) in general and specifically in natural language understanding (NLU) as well as  dialogue design. These  virtual assistants aim to create and solve a real business case of real companies. They are presented and evaluated by the companies at a final presentation. 

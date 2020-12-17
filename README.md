@@ -1,15 +1,15 @@
-### IBM Watson Chatbot Challenge
+### IBM Watson Chatbot Challenge:
 Welcome dear students, here you will find all documents, tutorials and other helpful resources you need to get started with the IBM Watson Chatbot Challenge.
 
-### Abstract
+### Abstract:
 Master students in groups of 3-5 people work during the spring term 2021 in an independent learning module at the ‘Watson chatbot Challenge’. The module aims are to design enterprise-specific conversational use cases and implement them using state-of- the-art frameworks of IBM Watson Assistant. You will get insights into the conversational design, natural language processing (NLP) in general and specifically in natural language understanding (NLU) as well as  dialogue design. These  virtual assistants aim to create and solve a real business case of real companies. They are presented and evaluated by the companies at a final presentation. 
 
 - Module overview: [IBM Watson Chatbot Challenge](https://ibm.box.com/s/l9lh361aylab7k2im893xk3fyglowqw3)
 
-### Credits
+### Credits:
 3 ECTS
 
-### Competing Universities
+### Participating Universities:
 - Hochschule Luzern Wirtschaft 
 - FHNW University of Applied Sciences and Arts Northwestern Switzerland
 - University of St.Gallen 
@@ -23,7 +23,7 @@ Master students in groups of 3-5 people work during the spring term 2021 in an i
 - Self study         (building of conversational agent)
 - Final:             07.06. - 08.06.2021 (per group 1h hour)
 
-### Register yourself for the module
+### Here you must register to participate in the module:
 - Registration page: [IBM Registration](https://ecosystem-dach.eu-de.mybluemix.net/events/d8b3478f4078f4dc6e050594ab6baf08)
 
 ![IBM-Watson-CIMON-gif](https://www.ibm.com/thought-leadership/smart/ai-in-space-xp/src/img/loader_iss.gif)
@@ -47,6 +47,9 @@ In case you wonder who the guy in the picture is, it is CIMON! To learn more abo
 - Description on how to import or export [intents](https://cloud.ibm.com/docs/assistant?topic=assistant-intents#intents-export) and [entities](https://cloud.ibm.com/docs/assistant?topic=assistant-entities#entities-export)
 - 4 parts Tutorial to build a [Machine Learning Model with Watson Studio](https://github.com/FelixAugenstein/digital-tech-tutorial-watson-studio)
 - Beginner's guide to [Watson Visual Recognition](https://developer.ibm.com/articles/introduction-watson-visual-recognition/)
+
+### Social Media:
+Share the challenge in your social media accounts with the hashtag: #IBMWATSONCHABOTCH
 
 ### Further resources:
 - More than 100 open source projects, a library of knowledge resources, developer advocates ready to help, and a global community of developers --> [IBM Developer](https://developer.ibm.com/)

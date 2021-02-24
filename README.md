@@ -13,7 +13,7 @@ Master students in groups of 3-5 people work during the spring term 2021 in an i
 - FHNW University of Applied Sciences and Arts Northwestern Switzerland
 - University of St.Gallen 
 - ZHAW School of Management and Law
-- University of Zurich
+
 
 ### Module Agenda:
 - Introduction days: 01.03. - 02.03.2021 (2x full day 09.00 -17.00)

@@ -6,7 +6,7 @@ Master students in groups of 3-5 people work during the spring term 2021 in an i
 
 - Module overview: -> Find the Watson Chatbot Challenge.pdf in the "Go to file" section.
 
-3 ECTS
+6 ECTS
 
 ### Participating Universities:
 - Hochschule Luzern Wirtschaft 

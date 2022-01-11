@@ -2,7 +2,7 @@
 Welcome dear students, here you will find all documents, tutorials and other helpful resources you need to get started with the IBM Watson Chatbot Challenge.
 
 ### Abstract:
-Master students in groups of 3-5 people work during the spring term 2021 in an independent learning module at the ‘Watson chatbot Challenge’. The module aims are to design enterprise-specific conversational use cases and implement them using state-of- the-art frameworks of IBM Watson Assistant. You will get insights into the conversational design, natural language processing (NLP) in general and specifically in natural language understanding (NLU) as well as  dialogue design. These  virtual assistants aim to create and solve a real business case of real companies. They are presented and evaluated by the companies at a final presentation. 
+Master students in groups of 3-5 people work during the spring term 2022 in an independent learning module at the ‘Watson chatbot Challenge’. The module aims are to design enterprise-specific conversational use cases and implement them using state-of- the-art frameworks of IBM Watson Assistant. You will get insights into the conversational design, natural language processing (NLP) in general and specifically in natural language understanding (NLU) as well as  dialogue design. These  virtual assistants aim to create and solve a real business case of real companies. They are presented and evaluated by the companies at a final presentation. 
 
 - Module overview: -> Find the Watson Chatbot Challenge.pdf in the "Go to file" section.
 
@@ -11,19 +11,15 @@ Master students in groups of 3-5 people work during the spring term 2021 in an i
 ### Participating Universities:
 - Hochschule Luzern Wirtschaft 
 - FHNW University of Applied Sciences and Arts Northwestern Switzerland
-- University of St.Gallen 
 - ZHAW School of Management and Law
 
 
 ### Module Agenda:
-- Introduction days: 01.03. - 02.03.2021 (2x full day 09.00 -17.00)
+- Introduction days: TBD
 - Self study         (building of conversational agent)
-- Mid Term:          19.04. - 20.04.2021 (per group 1h hour)
+- Mid Term:          TBD (per group 1h hour)
 - Self study         (building of conversational agent)
-- Final:             07.06. - 08.06.2021 (per group 1h hour)
-
-### Here you must register to participate in the module:
-- Registration page: [IBM Registration](https://ecosystem-dach.eu-de.mybluemix.net/events/d8b3478f4078f4dc6e050594ab6baf08)
+- Final:             TBD (per group 1h hour)
 
 ![IBM-Watson-CIMON-gif](https://www.ibm.com/thought-leadership/smart/ai-in-space-xp/src/img/loader_iss.gif)
 

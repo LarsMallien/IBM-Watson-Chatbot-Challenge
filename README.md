@@ -1,5 +1,5 @@
 ### IBM Watson Chatbot Challenge:
-Welcome dear students, here you will find all documents, ,registration, tutorials and other helpful resources you need to get started with the IBM Watson Chatbot Challenge.
+Welcome dear students, here you will find all documents, registration, tutorials and other helpful resources you need to get started with the IBM Watson Chatbot Challenge.
 
 ### Registration:
 Please register here: https://0tv1qsktzd5.typeform.com/to/VRLiz4zV

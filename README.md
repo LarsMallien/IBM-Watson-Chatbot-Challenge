@@ -2,11 +2,11 @@
 Welcome dear students, here you will find all documents, registration, tutorials and other helpful resources you need to get started with the IBM Watson Chatbot Challenge.
 
 ### Registration:
-Please register here: https://0tv1qsktzd5.typeform.com/to/VRLiz4zV
+Please register here: https://events.bizzabo.com/IBM-Watson-Chatbot-Challenge-2023
 If you have any question regarding the course or the registration do not hesitate contacting me. E-mail: lars.mallien@ch.ibm.com
 
 ### Abstract:
-Master students in groups of 3-5 people work during the spring term 2022 in an independent learning module at the ‘Watson chatbot Challenge’. The module aims are to design enterprise-specific conversational use cases and implement them using state-of- the-art frameworks of IBM Watson Assistant. You will get insights into the conversational design, natural language processing (NLP) in general and specifically in natural language understanding (NLU) as well as  dialogue design. These  virtual assistants aim to create and solve a real business case of real companies. They are presented and evaluated by the companies at a final presentation. 
+Master students in groups of 3-5 people work during the spring term 2023 in an independent learning module at the ‘Watson chatbot Challenge’. The module aims are to design enterprise-specific conversational use cases and implement them using state-of- the-art frameworks of IBM Watson Assistant. You will get insights into the conversational design, natural language processing (NLP) in general and specifically in natural language understanding (NLU) as well as  dialogue design. These  virtual assistants aim to create and solve a real business case of real companies. They are presented and evaluated by the companies at a final presentation. 
 
 - Module overview: -> Find the Watson Chatbot Challenge.pdf in the "Go to file" section.
 
@@ -16,14 +16,15 @@ Master students in groups of 3-5 people work during the spring term 2022 in an i
 - Hochschule Luzern Wirtschaft 
 - FHNW University of Applied Sciences and Arts Northwestern Switzerland
 - ZHAW School of Management and Law
+- University of Zurich
 
 
 ### Module Agenda:
-- Introduction days: TBD
+- Introduction days: Tuesday February 28th 2023
 - Self study         (building of conversational agent)
-- Mid Term:          TBD (per group 1h hour)
+- Mid Term:          TBD (per group 20 min)
 - Self study         (building of conversational agent)
-- Final:             TBD (per group 1h hour)
+- Final:             TBD (per group 20 min)
 
 ![IBM-Watson-CIMON-gif](https://www.ibm.com/thought-leadership/smart/ai-in-space-xp/src/img/loader_iss.gif)
 
